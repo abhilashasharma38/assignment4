@@ -26,4 +26,4 @@ System.out.println("Given number found in the array");
 }
 }
 }
-© 2018 GitHub, Inc.
+
